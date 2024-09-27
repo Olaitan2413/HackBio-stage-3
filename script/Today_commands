@@ -1,0 +1,258 @@
+    1  2024-09-27 12:13:44 pwd
+    2  2024-09-27 12:13:44 mkd OlaitanTayo
+    3  2024-09-27 12:13:44 mkdir OlaitanTayo
+    4  2024-09-27 12:13:44 cd OlaitanTayo/
+    5  2024-09-27 12:13:44 mkdir biocomputing
+    6  2024-09-27 12:13:44 rm biocomputing/
+    7  2024-09-27 12:13:44 rmdir biocomputing/
+    8  2024-09-27 12:13:44 ls
+    9  2024-09-27 12:13:44 mkdir biocomputing | cd biocomputing
+   10  2024-09-27 12:13:44 mkdir biocomputing; cd biocomputing
+   11  2024-09-27 12:13:44 ls
+   12  2024-09-27 12:13:44 cd O
+   13  2024-09-27 12:13:44 cd . .
+   14  2024-09-27 12:13:44 cd ./
+   15  2024-09-27 12:13:44 cd .
+   16  2024-09-27 12:13:44 cd /
+   17  2024-09-27 12:13:44 ls
+   18  2024-09-27 12:13:44 cd ~/OlaitanTayo/
+   19  2024-09-27 12:13:44 ls
+   20  2024-09-27 12:13:44 rmdir biocomputing/
+   21  2024-09-27 12:13:44 ls
+   22  2024-09-27 12:13:44 mkdir biocomputing; cd biocomputing
+   23  2024-09-27 12:13:44 wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna 
+   24  2024-09-27 12:13:44 ls
+   25  2024-09-27 12:13:44 wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
+   26  2024-09-27 12:13:44 curl -o https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
+   27  2024-09-27 12:13:44 curl -0 https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
+   28  2024-09-27 12:13:44 ls
+   29  2024-09-27 12:13:44 wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
+   30  2024-09-27 12:13:44 ls
+   31  2024-09-27 12:13:44 mv wildtype.fna OlaitanTayo
+   32  2024-09-27 12:13:44 ls
+   33  2024-09-27 12:13:44 man mv
+   34  2024-09-27 12:13:44 ls
+   35  2024-09-27 12:13:44 mv -t OlaitanTayo OlaitanTayo 
+   36  2024-09-27 12:13:44 rm OlaitanTayo 
+   37  2024-09-27 12:13:44 ls
+   38  2024-09-27 12:13:44 wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna
+   39  2024-09-27 12:13:44 ls
+   40  2024-09-27 12:13:44 mv/~/OlaitanTayo/biocomputing/wildtype.fna /~OlaitanTayo/
+   41  2024-09-27 12:13:44 mv/home/OlaitanTayo/biocomputing/wildtype.fna /home/OlaitanTayo/
+   42  2024-09-27 12:13:44 mv /home/OlaitanTayo/biocomputing/wildtype.fna /home/OlaitanTayo/
+   43  2024-09-27 12:13:44 mv /~/OlaitanTayo/biocomputing/wildtype.fna /~/OlaitanTayo/
+   44  2024-09-27 12:13:44 mv wildtype.fna /~/OlaitanTayo/
+   45  2024-09-27 12:13:44 mv wildtype.fna ~/OlaitanTayo/
+   46  2024-09-27 12:13:44 ls
+   47  2024-09-27 12:13:44 cd OlaitanTayo
+   48  2024-09-27 12:13:44 cd..
+   49  2024-09-27 12:13:44 cd .
+   50  2024-09-27 12:13:44 cd ./
+   51  2024-09-27 12:13:44 cd ..
+   52  2024-09-27 12:13:44 ls
+   53  2024-09-27 12:13:44 cd biocomputing/
+   54  2024-09-27 12:13:44 rm wildtype.gbk
+   55  2024-09-27 12:13:44 ls
+   56  2024-09-27 12:13:44 grep tata wildtype.gbk.1 
+   57  2024-09-27 12:13:44 grep tatatata wildtype.gbk.1 
+   58  2024-09-27 12:13:44 grep tatatata wildtype.gbk.1 > mutant
+   59  2024-09-27 12:13:44 ls
+   60  2024-09-27 12:13:44 head mutant 
+   61  2024-09-27 12:13:44 wget https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?report=fasta&from=5619&to=7521
+   62  2024-09-27 12:13:44 ls
+   63  2024-09-27 12:13:44 head wget_log
+   64  2024-09-27 12:13:44 wget https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?report=fasta&from=5619&to=7521# > RSV
+   65  2024-09-27 12:13:44 ls
+   66  2024-09-27 12:13:44 head RSV
+   67  2024-09-27 12:13:44 tail RSV
+   68  2024-09-27 12:13:44 ls
+   69  2024-09-27 12:13:44 wget https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?report=fasta > RSV1
+   70  2024-09-27 12:13:44 ls
+   71  2024-09-27 12:13:44 head NC_001803.1\?report\=fasta
+   72  2024-09-27 12:13:44 head RSV1
+   73  2024-09-27 12:13:44 cat RSV1
+   74  2024-09-27 12:13:44 nano RSV1
+   75  2024-09-27 12:13:44 wget https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?report=fasta
+   76  2024-09-27 12:13:44 grep caat NC_001803.1\?report\=fasta
+   77  2024-09-27 12:13:44 grep caat NC_001803.1\?report\=fasta.2
+   78  2024-09-27 12:13:44 grep caat web_log
+   79  2024-09-27 12:13:44 rm NC_001803.1\?report\=fasta
+   80  2024-09-27 12:13:44 rm NC_001803.1\?report\=fasta.
+   81  2024-09-27 12:13:44 rm NC_001803.1\?report\=fasta.1
+   82  2024-09-27 12:13:44 rm NC_001803.1\?report\=fasta.2
+   83  2024-09-27 12:13:44 ls
+   84  2024-09-27 12:13:44 rm wget-log.1
+   85  2024-09-27 12:13:44 rm RSV
+   86  2024-09-27 12:13:44 rm RSV1 
+   87  2024-09-27 12:13:44 rm wget-log 
+   88  2024-09-27 12:13:44 ls
+   89  2024-09-27 12:13:44 curl -0 https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?report=fasta&from=5619&to=7521#
+   90  2024-09-27 12:13:44 wget "https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?report=fasta&from=5619&to=7521" -O RSV_F_gene.fasta
+   91  2024-09-27 12:13:44 ls
+   92  2024-09-27 12:13:44 head RSV_F_gene.fasta 
+   93  2024-09-27 12:13:44 cat RSV_F_gene.fasta 
+   94  2024-09-27 12:13:44 rm wget-log.1
+   95  2024-09-27 12:13:44 wget "https://www.ncbi.nlm.nih.gov/gene?linkname=gene_gene_h3k4me3&from_uid=1494475#" -O RSV_F_gene
+   96  2024-09-27 12:13:44 head RSV_F_gene
+   97  2024-09-27 12:13:44 ls
+   98  2024-09-27 12:13:44 rm R
+   99  2024-09-27 12:13:44 rm RSV_F_gene
+  100  2024-09-27 12:13:44 rm RSV_F_gene.fasta 
+  101  2024-09-27 12:13:44 wget "https://www.ncbi.nlm.nih.gov/gene?linkname=gene_gene_h3k4me3&from_uid=1494475#" -O RSV_F_gene.fasta
+  102  2024-09-27 12:13:44 less RSV_F_gene.fasta 
+  103  2024-09-27 12:13:44 rm RSV_F_gene.fasta 
+  104  2024-09-27 12:13:44 wget "https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?from=5619&to=7521&report=fasta" -O RSV_F_gene.fasta
+  105  2024-09-27 12:13:44 head RSV_F_gene.fasta 
+  106  2024-09-27 12:13:44 efetch -db nucleotide -id NC_001803.1 -seq_start 5619 -seq_stop 7521 -format fasta > RSV_F_gene.fasta1
+  107  2024-09-27 12:13:44 sudo apt-get install -y entrez-direct
+  108  2024-09-27 12:13:44 efetch -db nucleotide -id NC_001803.1 -seq_start 5619 -seq_stop 7521 -format fasta > RSV_F_gene.fasta1
+  109  2024-09-27 12:13:44 sudo apt-get install -y entrez-direct
+  110  2024-09-27 12:13:44 cd ~/downloads
+  111  2024-09-27 12:13:44 cd ~
+  112  2024-09-27 12:13:44 ls
+  113  2024-09-27 12:13:44 cd ~/Downloads
+  114  2024-09-27 12:13:44 wget "https://www.ncbi.nlm.nih.gov/gene/1494467"
+  115  2024-09-27 12:13:44 ls
+  116  2024-09-27 12:13:44 head 1494467 
+  117  2024-09-27 12:13:44 wget "https://www.ncbi.nlm.nih.gov/nuccore/NC_001803.1?report=fasta"
+  118  2024-09-27 12:13:44 ls
+  119  2024-09-27 12:13:44 head 'NC_001803.1?report=fasta.1'
+  120  2024-09-27 12:13:44 cd O
+  121  2024-09-27 12:13:44 cd OlaitanTayo/
+  122  2024-09-27 12:13:44 cd biocomputing/
+  123  2024-09-27 12:13:44 ls
+  124  2024-09-27 12:13:44 rm RSV_F_gene.fasta
+  125  2024-09-27 12:13:44 rm RSV_F_gene.fasta1 
+  126  2024-09-27 12:13:44 ls
+  127  2024-09-27 12:13:44 head sequence.fasta 
+  128  2024-09-27 12:13:44 tail -n +2 sequence.fasta | wc -l
+  129  2024-09-27 12:13:44 tail -n +2 sequence.fasta | grep -o "A" | wc -l
+  130  2024-09-27 12:13:44 tail -n +2 sequence.fasta | grep -o "G" | wc -l
+  131  2024-09-27 12:13:44 tail -n +2 sequence.fasta | grep -o "C" | wc -l
+  132  2024-09-27 12:13:44 tail -n +2 sequence.fasta | grep -o "T" | wc -l
+  133  2024-09-27 12:13:44 total_bases=$(tail -n +2 sequence.fasta | grep -o "[ACGT]" | wc -l)
+  134  2024-09-27 12:13:44 gc_bases=$(tail -n +2 sequence.fasta | grep -o "[GC]" | wc -l)
+  135  2024-09-27 12:13:44 gc_content=$(echo "scale=2; $gc_bases / $total_bases * 100" | bc)
+  136  2024-09-27 12:13:44 echo "GC content: $gc_content%"
+  137  2024-09-27 12:13:44 sudo apt-get update && sudo apt-get install bc
+  138  2024-09-27 12:13:44 which bc
+  139  2024-09-27 12:13:44 total_bases=$(tail -n +2 sequence.fasta | grep -o "[ACGT]" | wc -l)
+  140  2024-09-27 12:13:44 gc_bases=$(tail -n +2 sequence.fasta | grep -o "[GC]" | wc -l)
+  141  2024-09-27 12:13:44 gc_content=$(echo "scale=2; $gc_bases / $total_bases * 100" | bc)
+  142  2024-09-27 12:13:44 echo "GC content: $gc_content%"
+  143  2024-09-27 12:13:44 nano OlaitanTayo.fasta
+  144  2024-09-27 12:13:44 echo "Number of A:-n +2 sequence.fasta | grep -o "A" 
+  145  2024-09-27 12:13:44 | wc -l
+  146  2024-09-27 12:13:44 echo "GC content: $gc_content%"
+  147  2024-09-27 12:13:44 "
+  148  2024-09-27 12:13:44 pwd
+  149  2024-09-27 12:13:44 ls
+  150  2024-09-27 12:13:44 cd OlaitanTayo/
+  151  2024-09-27 12:13:44 ls
+  152  2024-09-27 12:13:44 cd biocomputing/
+  153  2024-09-27 12:13:44 echo "A: $(-n +2 sequence.fasta | grep -o "A" | wc -l)" >> OlaitanTayo.fasta
+  154  2024-09-27 12:13:44 echo "G: $(-n +2 sequence.fasta | grep -o "G" | wc -l)" >> OlaitanTayo.fasta
+  155  2024-09-27 12:13:44 echo "T: $(-n +2 sequence.fasta | grep -o "T" | wc -l)" >> OlaitanTayo.fasta
+  156  2024-09-27 12:13:44 echo "C: $(-n +2 sequence.fasta | grep -o "C" | wc -l)" >> OlaitanTayo.fasta
+  157  2024-09-27 12:13:44 LS
+  158  2024-09-27 12:13:44 ls
+  159  2024-09-27 12:13:44 -n 
+  160  2024-09-27 12:13:44 -n +2 sequence.fasta | grep -o "G"
+  161  2024-09-27 12:13:44 echo "A: $(tail -n +2 sequence.fasta | grep -o "A" | wc -l)" >> OlaitanTayo.fasta
+  162  2024-09-27 12:13:44 echo "T: $(tail -n +2 sequence.fasta | grep -o "T" | wc -l)" >> OlaitanTayo.fasta
+  163  2024-09-27 12:13:44 echo "G: $(tail -n +2 sequence.fasta | grep -o "G" | wc -l)" >> OlaitanTayo.fasta
+  164  2024-09-27 12:13:44 echo "C: $(tail -n +2 sequence.fasta | grep -o "C" | wc -l)" >> OlaitanTayo.fasta
+  165  2024-09-27 12:13:44 cd OlaitanTayo
+  166  2024-09-27 12:13:44 cd OlaitanTayo.fasta
+  167  2024-09-27 12:13:44 nano OlaitanTayo.fasta
+  168  2024-09-27 12:13:44 git --version
+  169  2024-09-27 12:13:44 git clone https://github.co/Olaitan2413/your-repo.git
+  170  2024-09-27 12:13:44 git clone https://github.co/Olaitan2413/HackBio-stage-3.git
+  171  2024-09-27 12:13:44 cd HackBio-stage-3
+  172  2024-09-27 12:13:44 git clone https://github.com/Olaitan2413/your-repo.git
+  173  2024-09-27 12:13:44 ssh-keygen -t ed25519 -C "ayegbusiolaitan@yahoo.com"
+  174  2024-09-27 12:13:44 cat ~/.ssh/id_ed25519.pub
+  175  2024-09-27 12:13:44 git clone git@github.com:Olaitan2413/HackBio-stage-3.git
+  176  2024-09-27 12:13:44 eval "$(ssh-agent -s)"
+  177  2024-09-27 12:13:44 ssh-add ~/.ssh/id_ed25519
+  178  2024-09-27 12:13:44 cat ~/.ssh/id_ed25519.pub
+  179  2024-09-27 12:13:44 ssh -T git@github.com
+  180  2024-09-27 12:13:44 rm ~/.ssh/id_ed25519 ~/.ssh/id_ed25519.pub
+  181  2024-09-27 12:13:44 ssh-keygen -t ed25519 -C "ayegbusiolaitan@yahoo.com"
+  182  2024-09-27 12:13:44 eval "$(ssh-agent -s)"
+  183  2024-09-27 12:13:44 ssh-add ~/.ssh/id_ed25519
+  184  2024-09-27 12:13:44 cat ~/.ssh/id_ed25519.pub
+  185  2024-09-27 12:13:44 ssh -T git@github.com
+  186  2024-09-27 12:13:44 git clone git@github.com:Olaitan2413/HackBio-stage-3.git
+  187  2024-09-27 12:13:44 cd HackBio-stage-3/
+  188  2024-09-27 12:13:44 mkdir output
+  189  2024-09-27 12:13:44 ls
+  190  2024-09-27 12:13:44 mv /OlaitanTayo/biocomputing/OlaitanTayo.fasta output/
+  191  2024-09-27 12:13:44 cd ..
+  192  2024-09-27 12:13:44 ls
+  193  2024-09-27 12:13:44 mv /OlaitanTayo/biocomputing/OlaitanTayo.fasta output
+  194  2024-09-27 12:13:44 nano sequence.fasta 
+  195  2024-09-27 12:13:44 nano OlaitanTayo.fasta
+  196  2024-09-27 12:13:44 ls
+  197  2024-09-27 12:13:44 echo "A: $(tail -n +2 OlaitanTayo.txt | gr
+  198  2024-09-27 12:13:44 ep -o "A" | wc -l)" >> OlaitanTayo.txt                 
+  199  2024-09-27 12:13:44 echo "A: $(tail -n +2 OlaitanTayo.txt | grep -o "A" | wc -l)" >> OlaitanTayo.txt                 
+  200  2024-09-27 12:13:44 nano OlaitanTayo.txt
+  201  2024-09-27 12:13:44 echo "A: $(tail -n +2 OlaitanTayo.txt | grep -o "A" | wc -l)" >> OlaitanTayo.txt                 
+  202  2024-09-27 12:13:44 echo "G: $(tail -n +2 OlaitanTayo.txt | grep -o "G" | wc -l)" >> OlaitanTayo.txt                 
+  203  2024-09-27 12:13:44 echo "T: $(tail -n +2 OlaitanTayo.txt | grep -o "T" | wc -l)" >> OlaitanTayo.txt                 
+  204  2024-09-27 12:13:44 echo "C: $(tail -n +2 OlaitanTayo.txt | grep -o "C" | wc -l)" >> OlaitanTayo.txt                 
+  205  2024-09-27 12:13:44 nano OlaitanTayo.txt
+  206  2024-09-27 12:13:44 ls
+  207  2024-09-27 12:13:44 rm OlaitanTayo.fasta
+  208  2024-09-27 12:13:44 rm OlaitanTayo.fastaq 
+  209  2024-09-27 12:13:44 cd HackBio-stage-3/
+  210  2024-09-27 12:13:44 mv ~/OlaitanTayo/biocomputing/OlaitanTayo.txt output/
+  211  2024-09-27 12:13:44 ls
+  212  2024-09-27 12:13:44 cd output
+  213  2024-09-27 12:13:44 ls
+  214  2024-09-27 12:13:44 git status
+  215  2024-09-27 12:13:44 git add
+  216  2024-09-27 12:13:44 "git add output"
+  217  2024-09-27 12:13:44 git log --oneline
+  218  2024-09-27 12:13:44 git push origin output
+  219  2024-09-27 12:13:44 git push origin HackBio-stage-3
+  220  2024-09-27 12:13:44 git push origin main
+  221  2024-09-27 12:13:44 git branch
+  222  2024-09-27 12:13:44 git log --oneline
+  223  2024-09-27 12:13:44 git push origin main
+  224  2024-09-27 12:13:44 git branch
+  225  2024-09-27 12:14:01 pwd
+  226  2024-09-27 12:14:37 cd OlaitanTayo/biocomputing/
+  227  2024-09-27 12:14:40 ls
+  228  2024-09-27 12:14:50 cd HackBio-stage-3/
+  229  2024-09-27 12:14:53 ls
+  230  2024-09-27 12:15:27 ls output
+  231  2024-09-27 12:25:54 git add output/OlaitanTayo.txt
+  232  2024-09-27 12:26:54 git commit -m "Added file to /output folder"
+  233  2024-09-27 12:29:23 git config --global user.name "OlaitanTayo"
+  234  2024-09-27 12:30:18 git config --global user.email "ayegbusiolaitan@yahoo.com"
+  235  2024-09-27 12:32:15 git config --global user.name "OlaitanTayo2413"
+  236  2024-09-27 12:32:29 git config --global user.email "ayegbusiolaitan@yahoo.com"
+  237  2024-09-27 12:33:15 git config user.name "OlaitanTayo2413"
+  238  2024-09-27 12:34:15 git config user.email "ayegbusiolaitan@yahoo.com"
+  239  2024-09-27 12:34:32 git commit -m "Added file to /output folder"
+  240  2024-09-27 12:34:52 git push origin main
+  241  2024-09-27 12:58:00 nano OlaitanTayo.sh
+  242  2024-09-27 12:58:43 ls
+  243  2024-09-27 13:00:40 mv /OlaitanTayo/biocomputing/HackBio-stage-3/OlaitanTayo.sh mkdir script
+  244  2024-09-27 13:00:56 mkdir script
+  245  2024-09-27 13:01:09 mv /OlaitanTayo/biocomputing/HackBio-stage-3/OlaitanTayo.sh  script/
+  246  2024-09-27 13:01:41 mv ~/OlaitanTayo/biocomputing/HackBio-stage-3/OlaitanTayo.sh  script/
+  247  2024-09-27 13:01:47 ls
+  248  2024-09-27 13:01:54 ls script/
+  249  2024-09-27 13:03:26 git add script/OlaitanTayo.sh
+  250  2024-09-27 13:04:00 git commit -m "Added file to /script folder"
+  251  2024-09-27 13:04:43 git push origin main
+  252  2024-09-27 13:07:50 clear
+  253  2024-09-27 13:08:47 history
+  254  2024-09-27 13:09:37 clear
+  255  2024-09-27 13:10:43 export HISTTIMEFORMAT="%F %T "
+  256  2024-09-27 13:11:01 source ~/.bashrc
+  257  2024-09-27 13:11:38 history
+  258  2024-09-27 13:22:50 history > Today_commands
