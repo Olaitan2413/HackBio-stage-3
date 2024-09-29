@@ -1,6 +1,6 @@
 **Phase 1: Link**
 
-https://docs.google.com/document/d/1VooBnav6WVg5To4yP\_17iQqzwN361bpgB\_HQz67cIjo/edit?usp=drivesdk
+[Link to Google Doc](https://docs.google.com/document/d/1VooBnav6WVg5To4yP\_17iQqzwN361bpgB\_HQz67cIjo/edit?usp=drivesdk)
 
 **Phase 2:**
 
